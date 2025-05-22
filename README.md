@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d174303c-9199-4170-92af-c5b1b5156adb/deploy-status)](https://app.netlify.com/projects/previsao-do-tempo-devtred/deploys)
+
 # 🌤️ Previsão do Tempo
 
 Este é um projeto simples e funcional de previsão do tempo, que permite ao usuário consultar o clima em **tempo real** digitando o nome de uma cidade. Ideal para treinar integração com APIs, manipulação de dados no JavaScript e criar uma interface bonita e responsiva.
@@ -31,6 +33,10 @@ Este é um projeto simples e funcional de previsão do tempo, que permite ao usu
 <img width="1624" alt="Captura de Tela 2025-05-21 às 17 21 41" src="https://github.com/user-attachments/assets/9989cf9a-0841-471d-b050-5fdd75d06f00" />
 <img width="1624" alt="Captura de Tela 2025-05-21 às 17 21 30" src="https://github.com/user-attachments/assets/d1d78d37-4c8f-4319-92f2-af71147507cd" />
 <img width="1624" alt="Captura de Tela 2025-05-21 às 17 21 19" src="https://github.com/user-attachments/assets/43be2cdd-cc9a-41c5-99c9-e2744d71fa01" />
+
+## 🔗 Acesse a demo online
+
+🌐 [Clique aqui para testar!](https://previsao-do-tempo-devtred.netlify.app)
 
 
 
